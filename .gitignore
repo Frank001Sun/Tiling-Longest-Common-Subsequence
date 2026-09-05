@@ -1,0 +1,9 @@
+# Build outputs
+plcs
+plcs.omp
+plcs.queue
+plcs.tile
+*.o
+*.asan
+log.txt
+.clang-format
